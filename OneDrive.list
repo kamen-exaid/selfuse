@@ -1,0 +1,9 @@
+host-suffix, 1drv.com, OneDrive
+host-suffix, 1drv.ms, OneDrive
+host-suffix, blob.core.windows.net, OneDrive
+host-suffix, livefilestore.com, OneDrive
+host-suffix, onedrive.com, OneDrive
+host-suffix, storage.live.com, OneDrive
+host-suffix, storage.msn.com, OneDrive
+host-suffix, sharepoint.com, OneDrive
+host, oneclient.sfx.ms, OneDrive
