@@ -1,0 +1,2 @@
+# selfuse
+clash qx
