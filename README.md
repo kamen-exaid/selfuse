@@ -1,2 +1,3 @@
 # selfuse
-clash qx
+clash qx？
+py?
